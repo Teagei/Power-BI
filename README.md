@@ -6,9 +6,9 @@ The HR REPORT.pbix file contains an interactive Power BI dashboard designed to p
 
 <h2>Dashboard Features</h2>
 
-Employee Demographics: Displays workforce distribution by department, gender, and location.
+Employee Demographics: Displays workforce distribution by department, gender.
 
-Turnover Analysis: Highlights employee retention rates, attrition trends, and reasons for departure.
+Turnover Analysis: Highlights employee retention rates and attrition trends.
 
 Interactive Filters: Users can filter data by department, time period, and other HR factors for customized insights.
 
